@@ -47,3 +47,7 @@ df.head(20)
 ![](./f5.PNG)
 
 ![](./f6.PNG)
+
+## OUTPUT:
+Hence the data is read and clean.
+
